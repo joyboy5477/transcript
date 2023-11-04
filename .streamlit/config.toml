@@ -1,0 +1,8 @@
+# .streamlit/config.toml
+
+[theme]
+primaryColor = "#E91E63"  # Pink color for buttons and active elements
+backgroundColor = "#FFFFFF"  # White background
+secondaryBackgroundColor = "#F8BBD0"  # Lighter pink for secondary elements
+textColor = "#000000"  # Black text
+font = "sans serif"
