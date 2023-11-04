@@ -4,7 +4,7 @@ import os
 from tempfile import NamedTemporaryFile
 
 # Load the Whisper model
-model = whisper.load_model("tiny")
+model = whisper.load_model("small")
 
 st.title("Audio Transcription with OpenAI's Whisper")
 
