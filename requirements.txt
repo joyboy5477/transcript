@@ -99,7 +99,6 @@ psutil==5.9.6
 ptyprocess==0.7.0
 pure-eval==0.2.2
 pyarrow==14.0.0
-PyAudio==0.2.11
 pycparser==2.21
 pydeck==0.8.1b0
 pyee==11.0.1
