@@ -30,7 +30,7 @@ numpy==1.26.1
 openai-whisper==20230918
 packaging==23.2
 pandas==2.1.2
-Pillow==10.1.1
+Pillow==10.0.1
 proglog==0.1.10
 protobuf==4.25.0
 pyarrow==14.0.0
